@@ -1,3 +1,6 @@
 [submodule "03_Routing-Protocols"]
 	path = 03_Routing-Protocols
 	url = https://github.com/AryanSoltan/Routing-Protocols.git
+[submodule "04_TCP-Implementation"]
+	path = 04_TCP-Implementation
+	url = https://github.com/AryanSoltan/Simple-TCP-Implementation.git
